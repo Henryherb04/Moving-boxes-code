@@ -1,0 +1,10 @@
+.row {
+    height: 30px;
+    display: flex;
+}
+
+.box {
+    height: 30px;
+    width: 30px;
+    border: 1px solid white;
+}
